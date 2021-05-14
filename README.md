@@ -6,6 +6,7 @@ This interactive visualization tool shows the Vancouver Police Department report
 
 [Click here](https://wendy-ngan.shinyapps.io/vpd-crime-visual/) to use the tool.
 
+
 Preview:
 
 ![](Screenshots/app-1.png)
