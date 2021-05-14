@@ -1,5 +1,6 @@
 library(shiny)
 library(plotly)
+library(feasts)
 
 monthly.series <- readRDS("timeseries.RDS")
 
